@@ -1,4 +1,4 @@
-# tutorial-cloudinary-spring-boot
+# Tutorial Integration Cloudinary on Spring Boot Project
 This is tutorial for adding cloudinary as a media services in spring boot project.
 
 Link medium: https://junkevin.medium.com/set-up-cloudinary-as-a-media-service-in-your-spring-boot-project-its-free-a26542af4408?
